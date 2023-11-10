@@ -1,2 +1,3 @@
 # Git pull
-Primer canvi
+## Canvis de Pau
+- Primer canvi
